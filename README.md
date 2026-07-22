@@ -1,4 +1,4 @@
-# ⚡ CC LAB EXPERIMENTS HUB ⚡
+   #              ⚡ COMPETITIVE CODING LAB EXPERIMENTS HUB ⚡
 
 <div align="center">
 
