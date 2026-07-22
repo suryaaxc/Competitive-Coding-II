@@ -40,13 +40,11 @@ Each experiment is carefully structured to provide:
 Name: Suryakant Kumar
 Branch: Computer Science Engineering (AI & ML)
 University: Chandigarh University
-Role: Student Developer
+Role: Programmer
 Interests:
   - Artificial Intelligence
   - Machine Learning
   - Competitive Programming
-  - Full Stack Development
-  - Open Source
 ```
 
 ---
